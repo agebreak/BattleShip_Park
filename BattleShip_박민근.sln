@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BattleShip_PP", "BattleShip_PP\BattleShip_PP.vcxproj", "{AB5AC604-40D0-4DA0-AE05-53EE204ADA78}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BattleShip", "BattleShip\BattleShip.vcxproj", "{C20C36FD-E58F-4BF7-A6C6-1F35C2C2E609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB5AC604-40D0-4DA0-AE05-53EE204ADA78}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AB5AC604-40D0-4DA0-AE05-53EE204ADA78}.Debug|Win32.Build.0 = Debug|Win32
+		{AB5AC604-40D0-4DA0-AE05-53EE204ADA78}.Release|Win32.ActiveCfg = Release|Win32
+		{AB5AC604-40D0-4DA0-AE05-53EE204ADA78}.Release|Win32.Build.0 = Release|Win32
+		{C20C36FD-E58F-4BF7-A6C6-1F35C2C2E609}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C20C36FD-E58F-4BF7-A6C6-1F35C2C2E609}.Debug|Win32.Build.0 = Debug|Win32
+		{C20C36FD-E58F-4BF7-A6C6-1F35C2C2E609}.Release|Win32.ActiveCfg = Release|Win32
+		{C20C36FD-E58F-4BF7-A6C6-1F35C2C2E609}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
